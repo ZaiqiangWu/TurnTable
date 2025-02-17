@@ -10,7 +10,7 @@ bash Anaconda3-2024.10-1-Linux-x86_64.sh
 ```
 
 ### Step 1
-Make sure that you are under the `./PerGarmentVITON`, then run the following command to create the environment.
+Run the following command to create the environment.
 ```
 conda create -n turntable python=3.8
 conda activate turntable
